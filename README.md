@@ -1,1 +1,1 @@
-# Kidney-Disease-Classification-MLFLOW-DVC
+# Kidney-Disease-Classification-Deep-learning-project
